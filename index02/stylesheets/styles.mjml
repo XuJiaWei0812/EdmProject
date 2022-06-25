@@ -1,0 +1,6 @@
+<mj-style>
+  p,
+  strong {
+    margin: 0px;
+  }
+</mj-style>

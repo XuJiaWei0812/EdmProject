@@ -1,0 +1,14 @@
+<!-- Image Header -->
+<mj-section background-url="https://drive.google.com/uc?export=view&id=1VTs1dRMT90JRuYbxtSsg740Cv0Mp1zYq" vertical-align="middle">
+
+  <mj-column vertical-align="middle">
+    <mj-image width="110px" src="https://drive.google.com/uc?export=view&id=1egRXrsd57hVsf0PYLuFlahb99Al-15jy" />
+    <mj-text padding="215px 10px 10px 10px" align="center" font-weight="bold" font-size="18px" line-height="30px" color="white">
+      <h1>THE ONLY GIFT THAT SOUNDS</h1>
+      <h1> GOOD FOR DAD</h1>
+      <h2>20% off on all products</h2>
+    </mj-text>
+    <mj-button padding="10px 10px 60px 10px" background-color="#1D1D1D" color="white" font-weight="bold" font-size="18px" border="none" align="center" href="#">GO SHOP</mj-button>
+  </mj-column>
+
+</mj-section>

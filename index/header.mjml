@@ -1,0 +1,13 @@
+<!-- Image Header -->
+<mj-section background-url="https://drive.google.com/uc?export=view&id=1uNSk3EtCRijg1UzgmZMv3j-s8kPNE39b">
+
+  <mj-column padding-top="20px" padding-bottom="20px" width="530px" css-class="header-opacity" vertical-align="middle">
+    <mj-image align="left" width="158px" src="https://drive.google.com/uc?export=view&id=1jTl7DI1Z2jySEwWjkVP0ZQDVGfUwIF3t" />
+    <mj-text align="left" font-weight="bold" font-size="18px" line-height="30px" color="white">
+      <h1>為父親送上時尚禮物</h1>
+      <p>是時候讓爸爸升級衣櫃了！我們有大量男士用品可供選擇，隨時準備幫助您找到適合父親節慶祝活動的完美裝扮！</p>
+    </mj-text>
+    <mj-button background-color="white" color="#000" font-weight="bold" font-size="18px" border="none" align="left" href="#">線上購物</mj-button>
+  </mj-column>
+
+</mj-section>

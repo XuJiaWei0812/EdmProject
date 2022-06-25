@@ -1,0 +1,24 @@
+<mj-section background-color="#5F7464">
+
+  <mj-column vertical-align="middle">
+    <mj-image width="158px" src="https://drive.google.com/uc?export=view&id=1jTl7DI1Z2jySEwWjkVP0ZQDVGfUwIF3t" />
+
+    <mj-divider border-width="2px" border-color="#BBBBBB" />
+
+    <mj-social>
+      <mj-social-element icon-size="32px" src="https://drive.google.com/uc?export=view&id=1V1QtzsuTMtUKvMhxAhRdVf5-WbcoQ5fp" href="#">
+      </mj-social-element>
+      <mj-social-element icon-size="32px" src="https://drive.google.com/uc?export=view&id=1JPDixPbP3rtmelDzwtWTSfxhNXa5gBy7" href="#">
+      </mj-social-element>
+      <mj-social-element icon-size="32px" src="https://drive.google.com/uc?export=view&id=1JueVUN7SswGAJYpP5EsiZlAQgDG5DroI" href="#">
+      </mj-social-element>
+    </mj-social>
+
+    <mj-text align="center" font-weight="bold" font-size="12px" line-height="15px" color="white">
+      <p>感受最好的，穿上最好的！</p>
+      <p>改變主意了？您可以隨時<a href="#">取消訂閱<a>。</p>
+    </mj-text>
+
+  </mj-column>
+
+</mj-section>

@@ -1,0 +1,86 @@
+<mjml>
+
+  <mj-head>
+    <mj-attributes>
+
+    </mj-attributes>
+    <mj-include path="stylesheets/styles.mjml" type="css" />
+    <mj-include path="stylesheets/inline-styles.mjml" type="css" css-inline="inline" />
+  </mj-head>
+
+  <mj-body>
+    <mj-include path="header.mjml" />
+
+    <!-- Introduction Text -->
+    <mj-section background-color="#fafafa">
+      <mj-column>
+
+        <mj-text align="center" font-weight="bold" font-size="18px" line-height="30px" color="#525252">
+          <h2>今年讓我們為爸爸買禮物吧</h2>
+        </mj-text>
+
+        <mj-image width="473px" src="https://drive.google.com/uc?export=view&id=17GpknDULfROuHykeCe1QV7gVr5I6kjnQ" />
+
+        <mj-text align="center" font-weight="bold" font-size="18px" line-height="30px" color="#525252">
+          <p>我們知道很難挑選出合適的單品，更不用說整套服裝了。為了讓您更輕鬆，我們精選了一系列完整的服裝，這些服裝一定會讓爸爸開心，同時減輕你購物的壓力。</p>
+        </mj-text>
+
+        <mj-button font-weight="bold" font-size="16px" css-class="buttons" background-color="#747d62" href="#">瀏覽服裝</mj-button>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-divider width="550px" border-width="2px" border-color="#BBBBBB" />
+    </mj-divider>
+
+    <mj-section background-color="white">
+      <mj-column width="600px">
+        <mj-text align="center" font-weight="bold" font-size="18px" line-height="30px" color="#525252">
+          <h2>想自己挑選嗎？</h2>
+          <p>商店裡所有服裝通通優惠 10% ，看看那些能讓爸爸保持時尚的新服裝</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-image padding="0" src="https://drive.google.com/uc?export=view&id=1qO7LWELxGEOeDBJsEuZSGrnfRLvu8YXl" />
+        <mj-button font-weight="bold" font-size="16px" css-class="buttons" background-color="#747d62" href="#">現在購買</mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image padding="0" src="https://drive.google.com/uc?export=view&id=19RRduTs20tEidAlDnTLTZ3CFMoKDNe9j" />
+        <mj-button font-weight="bold" font-size="16px" css-class="buttons" background-color="#747d62" href="#">現在購買</mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image padding="0" src="https://drive.google.com/uc?export=view&id=1jOh-kGT5F-c03JoyhZwhTTGANIV91AGo" />
+        <mj-button font-weight="bold" font-size="16px" css-class="buttons" background-color="#747d62" href="#">現在購買</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white" vertical-align="middle">
+      <mj-column>
+        <mj-image padding="0" src="https://drive.google.com/uc?export=view&id=12qRI3IfBo0cul3PgPbk7DyT56gEC94Xv" />
+        <mj-button font-weight="bold" font-size="16px" css-class="buttons" background-color="#747d62" href="#">現在購買</mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image padding="0" src="https://drive.google.com/uc?export=view&id=1EL4GoK3Z2ggoB5SEw_1dPY5uK6XtUcll" />
+        <mj-button font-weight="bold" font-size="16px" css-class="buttons" background-color="#747d62" href="#">現在購買</mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image padding="0" src="https://drive.google.com/uc?export=view&id=1X2KNQ64tDUk5G2vCJ-MfJCqS0rfkyiaI" />
+        <mj-button font-weight="bold" font-size="16px" css-class="buttons" background-color="#747d62" href="#">現在購買</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text align="center" font-weight="bold" font-size="18px" line-height="30px" color="#525252">
+          <p>快來我們的商店購買更多選擇，讓我們的造型師為您提供幫助！</p>
+        </mj-text>
+        <mj-button font-weight="bold" font-size="16px" css-class="buttons" background-color="#747d62" href="#">前往商店</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="footer.mjml" />
+  </mj-body>
+</mjml>

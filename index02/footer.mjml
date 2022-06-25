@@ -1,0 +1,26 @@
+<mj-section padding="0px" background-color="white">
+  <mj-column padding-bottom="20px" background-color="#1d1d1d">
+    <mj-text padding-top="50px" padding-bottom="20px" align="center" font-size="38px" color="white">
+      <strong>EXTRA 10% OFF</strong>
+    </mj-text>
+    <mj-text padding-bottom="20px" align="center" font-size="22px" line-height="20px" color="white">
+      <p>Member only</p>
+    </mj-text>
+    <mj-text padding="35px 60px 20px 60px" align="center" font-size="14px" line-height="20px" color="#b0b0b0">
+      <p> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. </p>
+    </mj-text>
+    <mj-image width="110px" src="https://drive.google.com/uc?export=view&id=1egRXrsd57hVsf0PYLuFlahb99Al-15jy" />
+    <mj-social>
+      <mj-social-element icon-size="32px" src="https://drive.google.com/uc?export=view&id=1V1QtzsuTMtUKvMhxAhRdVf5-WbcoQ5fp" href="#">
+      </mj-social-element>
+      <mj-social-element icon-size="32px" src="https://drive.google.com/uc?export=view&id=1JPDixPbP3rtmelDzwtWTSfxhNXa5gBy7" href="#">
+      </mj-social-element>
+      <mj-social-element icon-size="32px" src="https://drive.google.com/uc?export=view&id=1JueVUN7SswGAJYpP5EsiZlAQgDG5DroI" href="#">
+      </mj-social-element>
+    </mj-social>
+    <mj-text align="center" font-size="12px" line-height="20px" color="white">
+      <p>Copyright © 2020 Your Company</p>
+    </mj-text>
+    
+  </mj-column>
+</mj-section>

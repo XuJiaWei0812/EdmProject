@@ -1,0 +1,13 @@
+<mj-style>
+  .buttons {
+    letter-spacing: 3px !important;
+    display: block !important;
+    width: "100%" !important;
+  }
+  .header-opacity{
+    background-color: rgba(0,0,0,0.5);
+  }
+  a{
+    color:white;
+  }
+</mj-style>
